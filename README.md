@@ -30,8 +30,8 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/24 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-08-28
+- **Last commit**: 2026-09-16
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 530 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1073
+- **Releases**: 63 · **Merged PRs**: 531 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1074
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 0 | 3 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-18 | 0 | 10 | 0 | 0 | 0 | 9 |
-| 90d | 2026-06-18 | 0 | 21 | 0 | 0 | 0 | 18 |
-| last180d | 2026-03-20 | 1 | 38 | 0 | 0 | 0 | 44 |
-| 360d | 2025-09-21 | 1 | 44 | 0 | 0 | 0 | 50 |
-| last720d | 2024-09-26 | 2 | 60 | 0 | 1 | 0 | 105 |
+| 30d | 2026-08-18 | 0 | 4 | 0 | 0 | 0 | 4 |
+| last60d | 2026-07-19 | 0 | 11 | 0 | 0 | 0 | 10 |
+| 90d | 2026-06-19 | 0 | 20 | 0 | 0 | 0 | 19 |
+| last180d | 2026-03-21 | 1 | 39 | 0 | 0 | 0 | 45 |
+| 360d | 2025-09-22 | 1 | 45 | 0 | 0 | 0 | 51 |
+| last720d | 2024-09-27 | 2 | 61 | 0 | 1 | 0 | 106 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T06:15:10Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T06:22:34Z._
