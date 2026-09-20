@@ -4,7 +4,7 @@
 
 Containerize your development and continuous integration environments. 🥂
 
-![toast](https://repo.x-cmd.io/toast.svg)
+[![x-cmd/install — toast Code Quality Monitoring Repo Card](https://repo.x-cmd.io/toast.svg)](https://x-cmd.com/install/toast)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install toast
 
 ## Code insight
 
-Total: **5,676** lines of code across **81** files in the top 5 languages.
+Total: **5,686** lines of code across **81** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,913 | 512 | 638 | 11 |
+| Rust | 4,923 | 516 | 644 | 11 |
 | Yaml | 520 | 39 | 20 | 28 |
 | Sh | 196 | 66 | 65 | 31 |
 | Toml | 37 | 0 | 3 | 1 |
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-09-17
+- **Last commit**: 2026-09-19
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 532 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1075
+- **Releases**: 63 · **Merged PRs**: 535 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1079
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 5 | 0 | 0 | 0 | 5 |
-| last60d | 2026-07-20 | 0 | 12 | 0 | 0 | 0 | 11 |
-| 90d | 2026-06-20 | 0 | 20 | 0 | 0 | 0 | 20 |
-| last180d | 2026-03-22 | 1 | 40 | 0 | 0 | 0 | 46 |
-| 360d | 2025-09-23 | 1 | 46 | 0 | 0 | 0 | 52 |
-| last720d | 2024-09-28 | 2 | 62 | 0 | 1 | 0 | 107 |
+| 30d | 2026-08-21 | 0 | 7 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-22 | 0 | 14 | 0 | 0 | 0 | 11 |
+| 90d | 2026-06-22 | 0 | 23 | 0 | 0 | 0 | 22 |
+| last180d | 2026-03-24 | 1 | 43 | 0 | 0 | 0 | 48 |
+| 360d | 2025-09-25 | 1 | 49 | 0 | 0 | 0 | 55 |
+| last720d | 2024-09-30 | 2 | 65 | 0 | 1 | 0 | 111 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T06:15:37Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:21Z._
