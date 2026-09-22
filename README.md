@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,630 · **Forks**: 38 · **Open issues**: 43 · **Contributors**: 9
+- **Stars**: 1,631 · **Forks**: 38 · **Open issues**: 43 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-21 | 0 | 7 | 0 | 0 | 0 | 6 |
-| last60d | 2026-07-22 | 0 | 14 | 0 | 0 | 0 | 11 |
-| 90d | 2026-06-22 | 0 | 23 | 0 | 0 | 0 | 22 |
-| last180d | 2026-03-24 | 1 | 43 | 0 | 0 | 0 | 48 |
-| 360d | 2025-09-25 | 1 | 49 | 0 | 0 | 0 | 55 |
-| last720d | 2024-09-30 | 2 | 65 | 0 | 1 | 0 | 111 |
+| 30d | 2026-08-23 | 0 | 7 | 0 | 0 | 0 | 6 |
+| last60d | 2026-07-24 | 0 | 13 | 0 | 0 | 0 | 11 |
+| 90d | 2026-06-24 | 0 | 23 | 0 | 0 | 0 | 22 |
+| last180d | 2026-03-26 | 1 | 43 | 0 | 0 | 0 | 48 |
+| 360d | 2025-09-27 | 1 | 49 | 0 | 0 | 0 | 55 |
+| last720d | 2024-10-02 | 2 | 65 | 0 | 1 | 0 | 111 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260920.yml` · 2026-09-20T06:16:21Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T06:13:01Z._
