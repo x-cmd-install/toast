@@ -30,8 +30,8 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
+- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
-- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-09-22
+- **Last commit**: 2026-09-23
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 537 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1083
+- **Releases**: 63 · **Merged PRs**: 538 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1084
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 9 | 0 | 0 | 0 | 8 |
-| last60d | 2026-07-25 | 0 | 14 | 0 | 0 | 0 | 13 |
-| 90d | 2026-06-25 | 0 | 25 | 0 | 0 | 0 | 24 |
-| last180d | 2026-03-27 | 1 | 45 | 0 | 0 | 0 | 50 |
-| 360d | 2025-09-28 | 1 | 51 | 0 | 0 | 0 | 57 |
-| last720d | 2024-10-03 | 2 | 67 | 0 | 1 | 0 | 115 |
+| 30d | 2026-08-25 | 0 | 10 | 0 | 0 | 0 | 9 |
+| last60d | 2026-07-26 | 0 | 15 | 0 | 0 | 0 | 14 |
+| 90d | 2026-06-26 | 0 | 26 | 0 | 0 | 0 | 25 |
+| last180d | 2026-03-28 | 1 | 46 | 0 | 0 | 0 | 51 |
+| 360d | 2025-09-29 | 1 | 52 | 0 | 0 | 0 | 58 |
+| last720d | 2024-10-04 | 2 | 68 | 0 | 1 | 0 | 116 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T06:23:43Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T05:49:01Z._
