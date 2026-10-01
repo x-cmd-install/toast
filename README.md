@@ -31,8 +31,8 @@ Overall score: **3.7 / 10**
 Lowest-scoring checks:
 
 - **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
-- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Packaging** (-1/10) — packaging workflow not detected
 
 ## Source
 
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,633 · **Forks**: 38 · **Open issues**: 43 · **Contributors**: 9
+- **Stars**: 1,634 · **Forks**: 38 · **Open issues**: 43 · **Contributors**: 9
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-31 | 0 | 8 | 0 | 0 | 0 | 8 |
-| last60d | 2026-08-01 | 0 | 14 | 0 | 0 | 0 | 13 |
-| 90d | 2026-07-02 | 0 | 23 | 0 | 0 | 0 | 23 |
-| last180d | 2026-04-03 | 1 | 45 | 0 | 0 | 0 | 41 |
-| 360d | 2025-10-05 | 1 | 52 | 0 | 0 | 0 | 58 |
-| last720d | 2024-10-10 | 2 | 68 | 0 | 1 | 0 | 116 |
+| 30d | 2026-09-01 | 0 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-08-02 | 0 | 13 | 0 | 0 | 0 | 13 |
+| 90d | 2026-07-03 | 0 | 23 | 0 | 0 | 0 | 23 |
+| last180d | 2026-04-04 | 1 | 45 | 0 | 0 | 0 | 41 |
+| 360d | 2025-10-06 | 1 | 52 | 0 | 0 | 0 | 58 |
+| last720d | 2024-10-11 | 2 | 68 | 0 | 1 | 0 | 116 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260930.yml` · 2026-09-30T06:35:27Z._
+_Snapshot: `data/card/261001.yml` · 2026-10-01T07:03:02Z._
