@@ -14,11 +14,11 @@ x install toast
 
 ## 代码洞察
 
-合计: **5,688** 行代码（覆盖前 5 种语言、共 **81** 个文件）。
+合计: **5,672** 行代码（覆盖前 5 种语言、共 **81** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Rust | 4,924 | 516 | 644 | 11 |
+| Rust | 4,908 | 515 | 643 | 11 |
 | Yaml | 521 | 39 | 20 | 28 |
 | Sh | 196 | 66 | 65 | 31 |
 | Toml | 37 | 0 | 3 | 1 |
@@ -30,9 +30,9 @@ x install toast
 
 评分最低的几项:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
 
@@ -42,7 +42,7 @@ x install toast
 ## 发布
 
 - **最新版本**: `v0.48.0` (2026-04-06)
-- **最近提交**: 2026-10-04
+- **最近提交**: 2026-10-07
 - **Release 含资产**: 8 个
 
 ## 流行度
@@ -51,18 +51,18 @@ x install toast
 
 ## 累计统计
 
-- **发布数**: 63 · **已合并 PR**: 540 · **开放 PR**: 0 · **已关闭 issue**: 33 · **开放 issue**: 10 · **提交数**: 1088
+- **发布数**: 63 · **已合并 PR**: 541 · **开放 PR**: 0 · **已关闭 issue**: 33 · **开放 issue**: 10 · **提交数**: 1089
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 10 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-08 | 0 | 15 | 0 | 0 | 0 | 14 |
-| 90d | 2026-07-09 | 0 | 22 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-10 | 0 | 39 | 0 | 0 | 0 | 41 |
-| 360d | 2025-10-12 | 1 | 54 | 0 | 0 | 0 | 60 |
-| last720d | 2024-10-17 | 2 | 70 | 0 | 1 | 0 | 120 |
+| 30d | 2026-09-08 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-08-09 | 0 | 16 | 0 | 0 | 0 | 15 |
+| 90d | 2026-07-10 | 0 | 23 | 0 | 0 | 0 | 23 |
+| last180d | 2026-04-11 | 0 | 40 | 0 | 0 | 0 | 42 |
+| 360d | 2025-10-13 | 1 | 55 | 0 | 0 | 0 | 61 |
+| last720d | 2024-10-18 | 2 | 71 | 0 | 1 | 0 | 121 |
 
 ## Release 资产
 
@@ -86,4 +86,4 @@ toast 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261007.yml` · 2026-10-07T06:57:25Z._
+_数据快照: `data/card/261008.yml` · 2026-10-08T07:11:40Z._

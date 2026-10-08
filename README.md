@@ -14,11 +14,11 @@ x install toast
 
 ## Code insight
 
-Total: **5,688** lines of code across **81** files in the top 5 languages.
+Total: **5,672** lines of code across **81** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,924 | 516 | 644 | 11 |
+| Rust | 4,908 | 515 | 643 | 11 |
 | Yaml | 521 | 39 | 20 | 28 |
 | Sh | 196 | 66 | 65 | 31 |
 | Toml | 37 | 0 | 3 | 1 |
@@ -30,9 +30,9 @@ Overall score: **3.7 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/26 approved changesets -- score normalized to 0
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
+- **Code-Review** (0/10) — Found 0/25 approved changesets -- score normalized to 0
 - **Packaging** (-1/10) — packaging workflow not detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## Source
 
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-10-04
+- **Last commit**: 2026-10-07
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 540 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1088
+- **Releases**: 63 · **Merged PRs**: 541 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1089
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-07 | 0 | 10 | 0 | 0 | 0 | 10 |
-| last60d | 2026-08-08 | 0 | 15 | 0 | 0 | 0 | 14 |
-| 90d | 2026-07-09 | 0 | 22 | 0 | 0 | 0 | 22 |
-| last180d | 2026-04-10 | 0 | 39 | 0 | 0 | 0 | 41 |
-| 360d | 2025-10-12 | 1 | 54 | 0 | 0 | 0 | 60 |
-| last720d | 2024-10-17 | 2 | 70 | 0 | 1 | 0 | 120 |
+| 30d | 2026-09-08 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-08-09 | 0 | 16 | 0 | 0 | 0 | 15 |
+| 90d | 2026-07-10 | 0 | 23 | 0 | 0 | 0 | 23 |
+| last180d | 2026-04-11 | 0 | 40 | 0 | 0 | 0 | 42 |
+| 360d | 2025-10-13 | 1 | 55 | 0 | 0 | 0 | 61 |
+| last720d | 2024-10-18 | 2 | 71 | 0 | 1 | 0 | 121 |
 
 ## Release assets
 
@@ -86,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261007.yml` · 2026-10-07T06:57:24Z._
+_Snapshot: `data/card/261008.yml` · 2026-10-08T07:11:40Z._
