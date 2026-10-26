@@ -37,32 +37,32 @@ Lowest-scoring checks:
 ## Source
 
 - **Upstream**: <https://github.com/stepchowfun/toast>
-- **License**: NOASSERTION
+- **License**: MIT
 
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-10-21
+- **Last commit**: 2026-10-25
 - **Assets in release**: 8
 
 ## Popularity
 
-- **Stars**: 1,633 · **Forks**: 38 · **Open issues**: 43 · **Contributors**: 9
+- **Stars**: 1,635 · **Forks**: 39 · **Open issues**: 43 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 545 · **Open PRs**: 0 · **Closed issues**: 33 · **Open issues**: 10 · **Commits**: 1093
+- **Releases**: 63 · **Merged PRs**: 547 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 9 · **Commits**: 1095
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-25 | 0 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-08-26 | 0 | 16 | 0 | 0 | 0 | 15 |
-| 90d | 2026-07-27 | 0 | 22 | 0 | 0 | 0 | 20 |
-| last180d | 2026-04-28 | 0 | 38 | 0 | 0 | 0 | 38 |
-| 360d | 2025-10-30 | 1 | 59 | 0 | 0 | 0 | 64 |
-| last720d | 2024-11-04 | 2 | 75 | 0 | 1 | 0 | 125 |
+| 30d | 2026-09-26 | 0 | 9 | 0 | 0 | 0 | 9 |
+| last60d | 2026-08-27 | 0 | 18 | 0 | 0 | 0 | 17 |
+| 90d | 2026-07-28 | 0 | 23 | 0 | 0 | 0 | 22 |
+| last180d | 2026-04-29 | 0 | 40 | 0 | 0 | 0 | 40 |
+| 360d | 2025-10-31 | 1 | 61 | 0 | 0 | 0 | 66 |
+| last720d | 2024-11-05 | 2 | 77 | 0 | 1 | 0 | 127 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261025.yml` · 2026-10-25T05:36:56Z._
+_Snapshot: `data/card/261026.yml` · 2026-10-26T05:39:42Z._
