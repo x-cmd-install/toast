@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-11 | 0 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-11 | 0 | 19 | 0 | 0 | 0 | 19 |
-| 90d | 2026-08-12 | 0 | 23 | 0 | 0 | 0 | 23 |
-| last180d | 2026-05-14 | 0 | 42 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-15 | 1 | 62 | 0 | 0 | 0 | 68 |
-| last720d | 2024-11-20 | 2 | 79 | 0 | 1 | 0 | 129 |
+| 30d | 2026-10-12 | 0 | 7 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-12 | 0 | 19 | 0 | 0 | 0 | 19 |
+| 90d | 2026-08-13 | 0 | 23 | 0 | 0 | 0 | 23 |
+| last180d | 2026-05-15 | 0 | 42 | 0 | 0 | 0 | 42 |
+| 360d | 2025-11-16 | 1 | 62 | 0 | 0 | 0 | 68 |
+| last720d | 2024-11-21 | 2 | 79 | 0 | 1 | 0 | 129 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261110.yml` · 2026-11-10T08:33:07Z._
+_Snapshot: `data/card/261111.yml` · 2026-11-11T07:18:39Z._
