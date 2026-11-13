@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-11-07
+- **Last commit**: 2026-11-13
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 549 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 9 · **Commits**: 1097
+- **Releases**: 63 · **Merged PRs**: 550 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 9 · **Commits**: 1098
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-13 | 0 | 7 | 0 | 0 | 0 | 7 |
-| last60d | 2026-09-13 | 0 | 19 | 0 | 0 | 0 | 19 |
-| 90d | 2026-08-14 | 0 | 23 | 0 | 0 | 0 | 23 |
-| last180d | 2026-05-16 | 0 | 42 | 0 | 0 | 0 | 42 |
-| 360d | 2025-11-17 | 1 | 62 | 0 | 0 | 0 | 68 |
-| last720d | 2024-11-22 | 2 | 79 | 0 | 1 | 0 | 129 |
+| 30d | 2026-10-14 | 0 | 8 | 0 | 0 | 0 | 8 |
+| last60d | 2026-09-14 | 0 | 20 | 0 | 0 | 0 | 20 |
+| 90d | 2026-08-15 | 0 | 24 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-17 | 0 | 43 | 0 | 0 | 0 | 43 |
+| 360d | 2025-11-18 | 1 | 63 | 0 | 0 | 0 | 69 |
+| last720d | 2024-11-23 | 2 | 80 | 0 | 1 | 0 | 130 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261112.yml` · 2026-11-12T08:43:27Z._
+_Snapshot: `data/card/261113.yml` · 2026-11-13T08:04:59Z._
