@@ -14,14 +14,14 @@ x install toast
 
 ## Code insight
 
-Total: **5,634** lines of code across **81** files in the top 5 languages.
+Total: **5,629** lines of code across **81** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 4,870 | 512 | 640 | 11 |
+| Rust | 4,868 | 512 | 639 | 11 |
 | Yaml | 521 | 39 | 20 | 28 |
 | Sh | 196 | 66 | 65 | 31 |
-| Toml | 37 | 0 | 3 | 1 |
+| Toml | 34 | 0 | 3 | 1 |
 | Svg | 10 | 0 | 0 | 10 |
 
 ## OpenSSF Scorecard
@@ -42,7 +42,7 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v0.48.0` (2026-04-06)
-- **Last commit**: 2026-11-13
+- **Last commit**: 2026-11-15
 - **Assets in release**: 8
 
 ## Popularity
@@ -51,18 +51,18 @@ Lowest-scoring checks:
 
 ## Totals (cumulative)
 
-- **Releases**: 63 · **Merged PRs**: 550 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 9 · **Commits**: 1098
+- **Releases**: 63 · **Merged PRs**: 552 · **Open PRs**: 0 · **Closed issues**: 34 · **Open issues**: 9 · **Commits**: 1100
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 8 | 0 | 0 | 0 | 8 |
-| last60d | 2026-09-15 | 0 | 20 | 0 | 0 | 0 | 20 |
-| 90d | 2026-08-16 | 0 | 24 | 0 | 0 | 0 | 24 |
-| last180d | 2026-05-18 | 0 | 43 | 0 | 0 | 0 | 43 |
-| 360d | 2025-11-19 | 1 | 63 | 0 | 0 | 0 | 69 |
-| last720d | 2024-11-24 | 2 | 80 | 0 | 1 | 0 | 130 |
+| 30d | 2026-10-16 | 0 | 9 | 0 | 0 | 0 | 7 |
+| last60d | 2026-09-16 | 0 | 21 | 0 | 0 | 0 | 15 |
+| 90d | 2026-08-17 | 0 | 25 | 0 | 0 | 0 | 24 |
+| last180d | 2026-05-19 | 0 | 45 | 0 | 0 | 0 | 45 |
+| 360d | 2025-11-20 | 1 | 65 | 0 | 0 | 0 | 71 |
+| last720d | 2024-11-25 | 2 | 82 | 0 | 1 | 0 | 132 |
 
 ## Release assets
 
@@ -95,4 +95,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T08:07:11Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T07:48:35Z._
