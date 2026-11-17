@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,635 · **Forks**: 39 · **Open issues**: 43 · **Contributors**: 10
+- **Stars**: 1,636 · **Forks**: 39 · **Open issues**: 43 · **Contributors**: 10
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 0 | 13 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-17 | 0 | 24 | 0 | 0 | 0 | 19 |
-| 90d | 2026-08-18 | 0 | 29 | 0 | 0 | 0 | 28 |
-| last180d | 2026-05-20 | 0 | 49 | 0 | 0 | 0 | 49 |
-| 360d | 2025-11-21 | 1 | 69 | 0 | 0 | 0 | 75 |
-| last720d | 2024-11-26 | 2 | 86 | 0 | 1 | 0 | 136 |
+| 30d | 2026-10-18 | 0 | 12 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-18 | 0 | 23 | 0 | 0 | 0 | 19 |
+| 90d | 2026-08-19 | 0 | 29 | 0 | 0 | 0 | 28 |
+| last180d | 2026-05-21 | 0 | 49 | 0 | 0 | 0 | 49 |
+| 360d | 2025-11-22 | 1 | 69 | 0 | 0 | 0 | 75 |
+| last720d | 2024-11-27 | 2 | 86 | 0 | 1 | 0 | 136 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Lowest-scoring checks:
 | [toast-x86_64-unknown-linux-gnu](https://github.com/stepchowfun/toast/releases/download/v0.48.0/toast-x86_64-unknown-linux-gnu) | 2.2 MiB | `native/linux/x64/glibc` |
 | [toast-x86_64-unknown-linux-musl](https://github.com/stepchowfun/toast/releases/download/v0.48.0/toast-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/toast). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `0.48.0` | ✅ latest |
-| Nix unstable | `0.48.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `toast` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:20:26Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T10:56:39Z._
