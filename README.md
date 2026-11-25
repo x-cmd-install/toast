@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 0 | 11 | 0 | 0 | 0 | 11 |
-| last60d | 2026-09-25 | 0 | 20 | 0 | 0 | 0 | 20 |
-| 90d | 2026-08-26 | 0 | 29 | 0 | 0 | 0 | 28 |
-| last180d | 2026-05-28 | 0 | 51 | 0 | 0 | 0 | 50 |
-| 360d | 2025-11-29 | 1 | 71 | 0 | 0 | 0 | 77 |
-| last720d | 2024-12-04 | 2 | 85 | 0 | 1 | 0 | 132 |
+| 30d | 2026-10-26 | 0 | 11 | 0 | 0 | 0 | 11 |
+| last60d | 2026-09-26 | 0 | 20 | 0 | 0 | 0 | 20 |
+| 90d | 2026-08-27 | 0 | 29 | 0 | 0 | 0 | 28 |
+| last180d | 2026-05-29 | 0 | 50 | 0 | 0 | 0 | 50 |
+| 360d | 2025-11-30 | 1 | 71 | 0 | 0 | 0 | 77 |
+| last720d | 2024-12-05 | 2 | 85 | 0 | 1 | 0 | 132 |
 
 ## Release assets
 
@@ -77,15 +77,6 @@ Lowest-scoring checks:
 | [toast-x86_64-unknown-linux-gnu](https://github.com/stepchowfun/toast/releases/download/v0.48.0/toast-x86_64-unknown-linux-gnu) | 2.2 MiB | `native/linux/x64/glibc` |
 | [toast-x86_64-unknown-linux-musl](https://github.com/stepchowfun/toast/releases/download/v0.48.0/toast-x86_64-unknown-linux-musl) | 2.4 MiB | `native/linux/x64/musl` |
 
-## Distribution status
-
-Reported by **11** distros on [repology.org](https://repology.org/project/toast). **4** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `HEAD` | 🔄 rolling |
-| Nix unstable | `0.48.0` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `toast` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -95,4 +86,4 @@ Install metadata for toast lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:53:53Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:13:45Z._
