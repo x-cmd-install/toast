@@ -1,10 +1,27 @@
-- repo: homebrew
+- repo: aur
   srcname: toast
+  binname: toast
   visiblename: toast
-  version: HEAD
-  origversion: null
-  status: rolling
-  summary: Tool for running tasks in containers
+  version: 0.15.2
+  origversion: 0.15.2-1
+  status: outdated
+  summary: A lightweight TUI IDE for making quick in-the-moment edits
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
+- repo: aur
+  srcname: toast-bin
+  binname: toast-bin
+  visiblename: toast-bin
+  version: 0.15.2
+  origversion: 0.15.2-1
+  status: outdated
+  summary: A lightweight TUI IDE for making quick in-the-moment edits
+  maintainers:
+    - dominiquini@aur
+  licenses:
+    - MIT
 - repo: homebrew
   srcname: toast
   visiblename: toast
@@ -12,30 +29,13 @@
   origversion: null
   status: newest
   summary: Tool for running tasks in containers
-- repo: aur
-  srcname: toast-bin
-  binname: toast-bin
-  visiblename: toast-bin
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: outdated
-  summary: A lightweight TUI IDE for making quick in-the-moment edits
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
-- repo: aur
+- repo: homebrew
   srcname: toast
-  binname: toast
   visiblename: toast
-  version: 0.15.1
-  origversion: 0.15.1-1
-  status: outdated
-  summary: A lightweight TUI IDE for making quick in-the-moment edits
-  maintainers:
-    - dominiquini@aur
-  licenses:
-    - MIT
+  version: HEAD
+  origversion: null
+  status: rolling
+  summary: Tool for running tasks in containers
 - repo: macports
   srcname: devel/toast
   binname: toast
